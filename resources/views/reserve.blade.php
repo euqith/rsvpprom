@@ -18,38 +18,25 @@
     <link href="css/custom.css" rel="stylesheet">
 
     <!-- Favicon -->
-    <link rel="icon" href="img/favicon-32x32.png" sizes="32x32" type="image/png">
-    <link rel="icon" href="img/favicon-16x16.png" sizes="16x16" type="image/png">
-    <link rel="icon" href="img/favicon.ico">
+    <link rel="icon" href="img/lsicon.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="img/lsicon.png" sizes="16x16" type="image/png">
+    <link rel="icon" href="img/lscon.ico">
 </head>
 
 <body id="page-top" class="h-100 w-100">
-
-    <!-- Preloader Start -->
-    <div class="preloader bg-white h-100 position-fixed w-100">
-        <svg width="100px" height="100px" viewBox="0 0 100 100" y="0px" x="0px" class="position-absolute start-50 top-50 translate-middle">
-            <g>
-                <path class="path-heart" d="M89.49,37.8c0,25.54-39.59,46.24-39.59,46.24S10.31,63.34,10.31,37.8c0-29.59,39.59-28.67,39.59,0C49.9,10.06,89.49,8.21,89.49,37.8 z" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3.5" stroke="#000000" fill="#e8ede6"></path>
-                <path class="path-heart-sm" d="M89.63,70.9c-3.57,10.15-22.21,12.84-22.21,12.84s-12.84-13.77-9.26-23.92c4.14-11.76,19.75-5.86,15.74,5.54 C77.78,54.33,93.78,59.13,89.63,70.9z" stroke-miterlimit="10" stroke-linejoin="round" stroke-linecap="round" stroke-width="3.5" stroke="#000000" fill="#6d8a91"></path>
-            </g>
-        </svg>
-    </div>
-    <!-- Preloader End -->
-
-
     <!-- Header Start -->
     <header class="fixed-top">
         <nav class="navbar navbar-expand-lg p-0">
             <div class="container">
                 <!-- Navbar brand (mobile) -->
-                <div class="navbar-brand align-items-center d-flex d-lg-none me-0">
-                    <img width="300" height="67" src="img/navbar-brand.png" alt="Logo">
+                <div class="navbar-brand align-items-center d-flex d-lg-none me-0 text-centerS">
+                    <img width="180" height="67" src="img/lswide.jpg" alt="Logo">
                 </div>
 
                 <!-- Navbar toggler -->
-                <button class="navbar-toggler bg-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                {{-- <button class="navbar-toggler bg-secondary" type="button" data-bs-toggle="collapse" data-bs-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
-                </button>
+                </button> --}}
 
                 <!-- Navbar menu -->
                 <div id="navbar" class="collapse navbar-collapse justify-content-lg-center">
@@ -57,7 +44,7 @@
 
                     <!-- Navbar brand (desktop) -->
                     <div class="navbar-brand d-none d-lg-block mx-3 mx-xl-5 text-center">
-                        <img width="300" height="67" src="img/navbar-brand.png" alt="Logo">
+                        <img width="180" height="67" src="img/lswide.jpg" alt="Logo">
                     </div>
 
                     
@@ -109,7 +96,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h2 class="font-alt fs-3 fw-bold text-uppercase text-light">We Can't Wait to See You!</h2>
-                    <p class="font-alt fs-5 fst-italic text-light">December, 17th 2023 | St. Patrick's Church, Washington, DC</p>
+                    <p class="font-alt fs-5 fst-italic text-light">March, 23rd 2025 | GIA Surabaya, Darmo Harapan PF-1</p>
                     <img width="100" src="img/ornament-divider.png" alt="" class="d-block mx-auto">
                 </div>
                 <!-- //.col-12 -->

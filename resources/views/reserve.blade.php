@@ -97,7 +97,7 @@
             <div class="row">
                 <div class="col-12 text-center">
                     <h2 class="font-alt fs-3 fw-bold text-uppercase text-light">We Can't Wait to See You!</h2>
-                    <p class="font-alt fs-5 fst-italic text-light">March, 23rd 2025 | GIA Surabaya, Darmo Harapan PF-1</p>
+                    <p class="font-alt fs-5 fst-italic text-light">June, 14th 2025 | GIA Surabaya, Jl. Raya Darmo Harapan PF-1</p>
                     <img width="100" src="img/ornament-divider.png" alt="" class="d-block mx-auto">
                 </div>
                 <!-- //.col-12 -->
